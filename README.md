@@ -1,4 +1,4 @@
-### Hi there 👋
+[IMG_1540_jpg](https://github.com/Noitskristopher/Noitskristopher/assets/113050937/84cb3a2f-b0f0-4c21-855d-cd525a24443e)
 
 <!--
 **Noitskristopher/Noitskristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
