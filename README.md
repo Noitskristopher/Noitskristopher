@@ -40,6 +40,7 @@ Medical Application supporting strong and secure relationship between doctor and
 - Collaborated with a team of peers, leveraging Github for collaboration and resolving complex challenges to drive development progress.
 - Utilized backend database with NoSQL for data flexibility and allow for data management.
 
+---
 
 ### Languages and Tools :
 
