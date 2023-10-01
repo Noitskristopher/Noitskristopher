@@ -36,6 +36,7 @@ A movie review website that utilizes MongoDB, Express.js, React.js, and Node.js.
 - Developed a user login and registration by implementing cookies and JSON web tokens to ensure user security.
 
 <a href="https://github.com/Noitskristopher/GroupProj-11">DocConnect:</a>
+Medical Application supporting strong and secure relationship between doctor and patient using
 - Collaborated with a team of peers, leveraging Github for collaboration and resolving complex challenges to drive development progress.
 - Utilized backend database with NoSQL for data flexibility and allow for data management.
 
