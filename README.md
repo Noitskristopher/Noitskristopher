@@ -7,7 +7,7 @@
   </div>
     <img src="https://komarev.com/ghpvc/?username=Noitskristopher&style=flat-square&color=blue" alt="profile-view"/>
       <p>
-    Hey friends my name is Kristopher Cabado!
+    Hey friends!
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </p>  
 </div>
@@ -18,15 +18,27 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" width="25"> from Southern California.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🧑‍🎓 Currently working on a Pomofocus.io dupe and taking a JavaScript Data structure and Algorithm course on Udemy.
 
-- :seedling: Exploring Technical Content Writing.
+- 🤔 Interested in front end and mobile developement.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🏀 In my free time, I enjoy playing basketball and video games.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Noitskristopher-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kristopher-cabado/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Noitskristopher-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kristopher-cabado/)
 
 ---
+
+### Projects :
+
+<a href="https://github.com/Noitskristopher/FilmBuffs">FilmBuffs:</a>
+A movie review website that utilizes MongoDB, Express.js, React.js, and Node.js.
+- Utilized public movie database API to access data from 1000+ movies.
+- Developed a user login and registration by implementing cookies and JSON web tokens to ensure user security.
+
+<a href="https://github.com/Noitskristopher/GroupProj-11">DocConnect:</a>
+- Collaborated with a team of peers, leveraging Github for collaboration and resolving complex challenges to drive development progress.
+- Utilized backend database with NoSQL for data flexibility and allow for data management.
+
 
 ### Languages and Tools :
 
