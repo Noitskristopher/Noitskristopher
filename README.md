@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/UEJ6DQQp68LJ
 
 ### Projects :
 
-<a href="">Taskodoro:</a>
+<a href="https://github.com/Noitskristopher/Taskodoro">Taskodoro:</a>
 A task application using MERN stack.
 - Full user CRUD for tasks.
 - Users can set a timer for a selected task. (25 minutes of work, 5 or 30 min breaks.)
