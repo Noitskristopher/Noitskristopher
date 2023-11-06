@@ -30,6 +30,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/UEJ6DQQp68LJ
 
 ### Projects :
 
+<a href="">Taskodoro:</a>
+A task application using MERN stack.
+- Full user CRUD for tasks.
+- Users can set a timer for a selected task. (25 minutes of work, 5 or 30 min breaks.)
+- Clean and friendly UI for task management and timer functionality.
+
 <a href="https://github.com/Noitskristopher/FilmBuffs">FilmBuffs:</a>
 A movie review website that utilizes MongoDB, Express.js, React.js, and Node.js.
 - Utilized public movie database API to access data from 1000+ movies.
